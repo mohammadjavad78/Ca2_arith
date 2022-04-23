@@ -1,0 +1,175 @@
+m255
+K4
+z2
+13
+cModel Technology
+dC:/Users/moham/OneDrive/Desktop/VHDL_PROJ/Component_library
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+Eadder
+Z0 w1650719172
+Z1 DPx4 ieee 15 std_logic_arith 0 22 I`lKR?Ob>E^B_e2VdVLiQ0
+Z2 DPx4 ieee 16 std_logic_signed 0 22 8FY=586_D?ni<6VI>V>_P1
+Z3 DPx3 std 6 textio 0 22 Y8d?=bLj9m4jiPLbo;>GT0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 1bm?@Gd;P>[>_lN8Do9gP3
+Z5 dC:/Users/moham/OneDrive/Desktop/VHDL_PROJ/Ca2_arith
+Z6 8C:/Users/moham/OneDrive/Desktop/VHDL_PROJ/Ca2_arith/first.vhd
+Z7 FC:/Users/moham/OneDrive/Desktop/VHDL_PROJ/Ca2_arith/first.vhd
+l0
+L45
+V8Gnf21f^^?4d_V9KPaH`93
+Z8 OE;C;10.2c;57
+32
+Z9 !s110 1650719175
+Z10 !s108 1650719175.029000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/moham/OneDrive/Desktop/VHDL_PROJ/Ca2_arith/first.vhd|
+Z12 !s107 C:/Users/moham/OneDrive/Desktop/VHDL_PROJ/Ca2_arith/first.vhd|
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+!s100 k7l6DiV]@>iIBG>=kCaf^3
+!i10b 1
+!i111 0
+Aarch
+R1
+R2
+R3
+R4
+Z15 DEx4 work 5 adder 0 22 8Gnf21f^^?4d_V9KPaH`93
+32
+R9
+l54
+L53
+VJKo0CWE<WMnc]RI>aI_6z3
+R8
+R10
+R11
+R12
+R13
+R14
+!s100 n;SZ[]O38F9J64@9RgW`H1
+!i10b 1
+!i111 0
+Ehz
+Z16 w1650719172
+R3
+R4
+R5
+R6
+R7
+l0
+L5
+VIOEZBea;Uga79G3;150@33
+R8
+32
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 01B_nC[SM`DFeAQ8LlQgR3
+!i10b 1
+!i111 0
+Aarch
+R3
+R4
+Z17 DEx4 work 2 hz 0 22 IOEZBea;Uga79G3;150@33
+32
+R9
+l15
+L13
+VYD[]aV57bogX@;hf@j1FS0
+R8
+R10
+R11
+R12
+R13
+R14
+!s100 ORmzDoDVQV=_]Ic9j[R^_1
+!i10b 1
+!i111 0
+Esigned_digit
+R16
+R3
+R4
+R5
+R6
+R7
+l0
+L61
+VW@QbnFeoNL2G^9;<lnO?_1
+R8
+32
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 JYYUa96ViAj8N0V:a[kTG3
+!i10b 1
+!i111 0
+Aarch
+Z18 DEx4 work 2 tw 0 22 CJV2[KbL35LYkH9MXKI;^2
+R1
+R2
+R15
+R17
+R3
+R4
+DEx4 work 12 signed_digit 0 22 W@QbnFeoNL2G^9;<lnO?_1
+32
+R9
+l81
+L69
+V<6h_WnaLJeIm:5A75`0I@3
+R8
+R10
+R11
+R12
+R13
+R14
+!s100 Zd>0VNBlMbP?jWegUmo730
+!i10b 1
+!i111 0
+Etw
+R16
+R3
+R4
+R5
+R6
+R7
+l0
+L26
+VCJV2[KbL35LYkH9MXKI;^2
+R8
+32
+R9
+R10
+R11
+R12
+R13
+R14
+!s100 ;f`3[8mj@7cT4>ZOb:]=83
+!i10b 1
+!i111 0
+Aarch
+R3
+R4
+R18
+32
+R9
+l36
+L34
+VDYMRBSAWcEL`:V:hBB@B<1
+R8
+R10
+R11
+R12
+R13
+R14
+!s100 mQ3=B2lN4JMNo<czCL`[B1
+!i10b 1
+!i111 0
